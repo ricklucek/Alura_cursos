@@ -1,5 +1,4 @@
 import { conta } from "./conta.js";
-import {cliente} from "./Cliente.js";
 export class contaCorrente extends conta{
     static numeroDeContas = 0;
 
